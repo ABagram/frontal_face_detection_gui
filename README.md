@@ -4,4 +4,4 @@
 
 ## Documentation
 + The official documentation for **CustomTkinter** can be found here ▸ https://customtkinter.tomschimansky.com/
-+ An _unofficial_ comprehensive instruction for Real-Time Face Detection with **OpenCV** can be found here ▸ https://www.datacamp.com/tutorial/face-detection-python-opencv. In running the script, ensure to end the loop by hitting `q` on your keyboard.
++ An _unofficial_ comprehensive instruction for real-time face detection with **OpenCV** can be found here ▸ https://www.datacamp.com/tutorial/face-detection-python-opencv. In running the script, ensure to end the loop by hitting `q` on your keyboard. This will stop the program from reading the frames captured by the camera. 
